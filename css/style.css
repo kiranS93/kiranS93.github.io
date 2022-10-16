@@ -140,7 +140,7 @@ figure.effect-oscar img {
 
 figure.effect-oscar figcaption {
 	padding: 3em;
-	background-color: rgba(58,52,42,0.7);
+	background-color: rgba(42, 58, 52, 0.7);
 	-webkit-transition: background-color 0.35s;
 	transition: background-color 0.35s;
 }
@@ -1596,7 +1596,7 @@ border: 1px solid #CE1139;
 
 #project_container {
     display: none;
-    background-color: #FFF;
+    background-color: #blue;
 }
 
 #project-page-button-fullscreen {
@@ -1656,7 +1656,7 @@ border: 1px solid #CE1139;
 }
 
 .project-page {
-    background-color: #FFF;
+    background-color: #GGG;
     width: 100%;
     height: auto;
     left: 0;
@@ -1966,8 +1966,8 @@ background:#ED5441;
 border-color: transparent;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{
-background:none;
-outline: none;
+background:blue;
+outline: blue;
 }
 .navStyle ul li {
 display: block;
